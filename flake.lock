@@ -182,11 +182,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1669417890,
-        "narHash": "sha256-Aq7gTev2ikYC99QUEf42OcyzSayTpluwQYDWCeTQa/I=",
+        "lastModified": 1669431174,
+        "narHash": "sha256-f7qwvVXsjb24Iuf2zuRVTG/847uA2EIFKe5vpGcqe9I=",
         "owner": "nim-nix-pkgs",
         "repo": "libfuzzy",
-        "rev": "37cf124ff1cbb0177b8e194fa8f70fb8f1d19b26",
+        "rev": "81e9e42fac4ea24c93b863f6ae0e1902f9fab61b",
         "type": "github"
       },
       "original": {
@@ -209,11 +209,11 @@
       },
       "locked": {
         "dir": "v0_1_0",
-        "lastModified": 1669417890,
-        "narHash": "sha256-Aq7gTev2ikYC99QUEf42OcyzSayTpluwQYDWCeTQa/I=",
+        "lastModified": 1669431174,
+        "narHash": "sha256-f7qwvVXsjb24Iuf2zuRVTG/847uA2EIFKe5vpGcqe9I=",
         "owner": "nim-nix-pkgs",
         "repo": "libfuzzy",
-        "rev": "37cf124ff1cbb0177b8e194fa8f70fb8f1d19b26",
+        "rev": "81e9e42fac4ea24c93b863f6ae0e1902f9fab61b",
         "type": "github"
       },
       "original": {
@@ -236,11 +236,11 @@
       },
       "locked": {
         "dir": "v0_1_0-1",
-        "lastModified": 1669417890,
-        "narHash": "sha256-Aq7gTev2ikYC99QUEf42OcyzSayTpluwQYDWCeTQa/I=",
+        "lastModified": 1669431174,
+        "narHash": "sha256-f7qwvVXsjb24Iuf2zuRVTG/847uA2EIFKe5vpGcqe9I=",
         "owner": "nim-nix-pkgs",
         "repo": "libfuzzy",
-        "rev": "37cf124ff1cbb0177b8e194fa8f70fb8f1d19b26",
+        "rev": "81e9e42fac4ea24c93b863f6ae0e1902f9fab61b",
         "type": "github"
       },
       "original": {
@@ -263,11 +263,11 @@
       },
       "locked": {
         "dir": "v0_1_0-2",
-        "lastModified": 1669417890,
-        "narHash": "sha256-Aq7gTev2ikYC99QUEf42OcyzSayTpluwQYDWCeTQa/I=",
+        "lastModified": 1669431174,
+        "narHash": "sha256-f7qwvVXsjb24Iuf2zuRVTG/847uA2EIFKe5vpGcqe9I=",
         "owner": "nim-nix-pkgs",
         "repo": "libfuzzy",
-        "rev": "37cf124ff1cbb0177b8e194fa8f70fb8f1d19b26",
+        "rev": "81e9e42fac4ea24c93b863f6ae0e1902f9fab61b",
         "type": "github"
       },
       "original": {
@@ -290,11 +290,11 @@
       },
       "locked": {
         "dir": "v0_1_1",
-        "lastModified": 1669417890,
-        "narHash": "sha256-Aq7gTev2ikYC99QUEf42OcyzSayTpluwQYDWCeTQa/I=",
+        "lastModified": 1669431174,
+        "narHash": "sha256-f7qwvVXsjb24Iuf2zuRVTG/847uA2EIFKe5vpGcqe9I=",
         "owner": "nim-nix-pkgs",
         "repo": "libfuzzy",
-        "rev": "37cf124ff1cbb0177b8e194fa8f70fb8f1d19b26",
+        "rev": "81e9e42fac4ea24c93b863f6ae0e1902f9fab61b",
         "type": "github"
       },
       "original": {
